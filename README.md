@@ -49,7 +49,7 @@ I am explaining the flow of the project below using the screesnshots captured wh
 8. Now, open the 'aml-pipelines-with-automated-machine-learning-step.ipynb' provided in the starter code to create a pipeline and sumbit it to run.<br />
 **(Rubric Point Screenshot : The pipeline section of Azure ML studio, showing that the pipeline has been created.)**
 ![alt text](https://github.com/Ishmeetsingh97/Operationalizing-Machine-Learning---Udacity-Project/blob/master/screenshots/required_screenshot_8.png)
-(Rubric Point Screenshot : The Bankmarketing dataset with the AutoML module.)
+**(Rubric Point Screenshot : The Bankmarketing dataset with the AutoML module.)**
 ![alt text](https://github.com/Ishmeetsingh97/Operationalizing-Machine-Learning---Udacity-Project/blob/master/screenshots/required_screenshot_9.png)
 
 
