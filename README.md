@@ -65,9 +65,9 @@ I am explaining the flow of the project below using the screesnshots captured wh
  
 11. Showing REST pipeline endpoint as Active in ML Studio. <br />
 **(Rubric Point Screenshot : ML studio showing the scheduled run.)**
-![alt text](https://github.com/Ishmeetsingh97/Operationalizing-Machine-Learning---Udacity-Project/blob/master/screenshots/required_screenshot_15.png)
+![alt text](https://github.com/Ishmeetsingh97/Operationalizing-Machine-Learning---Udacity-Project/blob/master/screenshots/required_Screenshot_15.png)
 **(Rubric Point Screenshot : ML studio showing the pipeline endpoint as Active.)**
-![alt text](https://github.com/Ishmeetsingh97/Operationalizing-Machine-Learning---Udacity-Project/blob/master/screenshots/required_screenshot_16.png)
+![alt text](https://github.com/Ishmeetsingh97/Operationalizing-Machine-Learning---Udacity-Project/blob/master/screenshots/required_Screenshot_16.png)
 
 Video Demonstration link : https://drive.google.com/file/d/1NR5QJlrw7992tQt2283vbfGgqDbIxh-l/view?usp=sharing
 
