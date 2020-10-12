@@ -69,7 +69,7 @@ I am explaining the flow of the project below using the screesnshots captured wh
 **(Rubric Point Screenshot : ML studio showing the pipeline endpoint as Active.)**
 ![alt text](https://github.com/Ishmeetsingh97/Operationalizing-Machine-Learning---Udacity-Project/blob/master/screenshots/required_Screenshot_16.png)
 
-Video Demonstration link : https://drive.google.com/file/d/1NR5QJlrw7992tQt2283vbfGgqDbIxh-l/view?usp=sharing
+Video Demonstration link : https://drive.google.com/file/d/1b_e1CsKn_SHLoew0I1FjsyeDtrdEoNHj/view?usp=sharing
 
 
 
